@@ -1,15 +1,15 @@
-```markdown
+
 # Titanic Classification Analysis using Machine Learning
 
 ## Project Overview
 This project performs a classification analysis to predict the survival of passengers aboard the Titanic using machine learning algorithms. The dataset used is the Titanic dataset, commonly available on platforms like Kaggle. The project involves data preprocessing, feature engineering, model training, evaluation, and visualization of results.
 
-### Objectives
+## Objectives
 - Predict passenger survival (0 = Not Survived, 1 = Survived) using machine learning.
 - Implement and compare multiple classification models: Logistic Regression, Decision Tree, Support Vector Machine (SVM), and K-Nearest Neighbors (KNN).
 - Perform data cleaning, feature engineering, and visualization to gain insights.
 
-### Authors
+## Authors
 - Chitikesi Siddharth (2022BCD0021)
 
 ## Dataset
